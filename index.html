@@ -18,6 +18,7 @@
         crossorigin="anonymous"></script>
 
     <link rel="stylesheet" href="./assets/lightslider/dist/css/lightslider.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightslider@1.1.6/lightslider.jquery.json">
     <link rel="stylesheet" type="text/css" href="css/style.css" />
 
     <script src="assets/lightslider/dist/css/lightslider.css"></script>
@@ -166,8 +167,8 @@
         <!-- PAPER PLANE ICON -->
         <div class="row">
             <div class="col-md-12">
-                <div class="mx-auto" id="paperDiv">
-                    <img src="assets/images-sounds/paperpng1.png" alt="Plane paper" id="paperPlane">
+                <div class="mx-auto" id="paperPlane">
+                    
                 </div>
             </div>
         </div>
@@ -207,7 +208,12 @@
                     <div class="card">
                         <div class="card-body mapGoogle">
                             <div style="height:100%; width:100%;">
-                                <div id="map-display"></div>
+                                <div id="map-display">
+                                    <div id="map"></div>
+                                    <script async defer
+                                        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-ExlB5HkgVE9M5_lIfM2SE7z6aRoWlXg&libraries=places&callback=initMap">
+                                        </script>
+                                </div>
                             </div>
                             <div class="col-md-2 restaurants">
                                 <button type="button" class="btn btn-light" id="Restaurant">Restaurant</button>
