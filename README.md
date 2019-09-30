@@ -6,9 +6,11 @@ Let's Go!
 ### Team Members: 
 Dave Levens, Liana Bette, Andrea Williams, Carlos Quinones
 
-### Project Website:
+### Important Links:
 
 * [Let's Go! website link](https://davidlevens.github.io/Project-1/)
+
+* [Let's Go! project presentation](https://docs.google.com/presentation/d/14ajDEPQHrGR983Wv_kgXHWAU8eHY-AZiez8W0nZ32TY/edit?usp=sharing)
 
 - - -
 
