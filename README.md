@@ -31,13 +31,13 @@ Destination traveling is a passion of our team and the motivation was to create 
   * Class Time - Team Synch Up & Reviews
   * QA - Unit Testing, Peer Reviews, Bug Tracking
 
-### The technologies used (and briefly how they work):	
+### The technologies used:	
   *	API - GooglePlaces and OpenWeather
   *	Framework - Bootstrap
   *	Programing languages - Javascript, JQuery 
   *	Database - Firebase
 
-### Directions for future development:
+### Future development considerations:
   *	Improve database storage functionality.
   *	Implement Sidebar to illustrate search history and or favorite. 
   *	Add links to websites to points of interest, hotels and restaurant sites.
