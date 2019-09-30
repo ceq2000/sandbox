@@ -1,7 +1,7 @@
 ## UCONN Bootcamp: Project 1 - Travel Application
 
 ### Project Name: 
-Let's Go!
+#### Let's Go!
 
 ### Team Members: 
 Dave Levens, Liana Bette, Andrea Williams, Carlos Quinones
