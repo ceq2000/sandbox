@@ -1,14 +1,16 @@
-# UCONN Bootcamp: Project 1 - Travel Application
+#Travel App
 
- Team name - Let's Go!
+UCONN Bootcamp: Project 1 - Travel Application
 
- Team members -  Dave Levens, Liana Bette, Andrea Williams, Carlos Quinones
+Team name: Let's Go!
+
+Team members: Dave Levens, Liana Bette, Andrea Williams, Carlos Quinones
 
 ### Overall application’s concept: 
-	Let's Go! helps travelers plan a trip by providing current weather and news as well as a city map with useful data including local restaurants, bars, museums, and stores. 
+Let's Go! helps travelers plan a trip by providing current weather and news as well as a city map with useful data including local restaurants, bars, museums, and stores. 
 
 ### The motivation for its development:
-	Destination traveling is a passion of our team and the motivation was to create a website that packages our travel interests into one website instead of searching multiple travel sites. The goal was to have a user friendly interface on one page load usefull aggregate travel information for planning a trip to a city destination anywhere in the world.
+Destination traveling is a passion of our team and the motivation was to create a website that packages our travel interests into one website instead of searching multiple travel sites. The goal was to have a user friendly interface on one page load usefull aggregate travel information for planning a trip to a city destination anywhere in the world.
 
 ### Our design process:
   *	Our design process consisted of meeting as a group.
@@ -29,11 +31,11 @@
   *	Add links to websites to points of interest, hotels and restaurant sites.
 
 ### Getting Started
-	The site is deployed at https://davidlevens.github.io/Project-1/!
-	On page load, a splash page with a random background image and an input field for entering a destination city and below it button links to the top 10 destinations for the year according to "". Once a city is either entered and the "Let's go!" submit button is clicked or one of the pre-selected city buttons is clicked, an image of the inputed city loads with the city name and respective country code being displayed. Displayed below it are a two columned section that loads the current weather and a map of the inputed city with points of interest including local restaurants, bars, museums, and stores. Following below the two column section is a footer with contact information, links to social media and copyright information. 
+The site is deployed at https://davidlevens.github.io/Project-1/!
+On page load, a splash page with a random background image and an input field for entering a destination city and below it button links to the top 10 destinations for the year according to "". Once a city is either entered and the "Let's go!" submit button is clicked or one of the pre-selected city buttons is clicked, an image of the inputed city loads with the city name and respective country code being displayed. Displayed below it are a two columned section that loads the current weather and a map of the inputed city with points of interest including local restaurants, bars, museums, and stores. Following below the two column section is a footer with contact information, links to social media and copyright information. 
 
 ### Prerequisites
-	There are no prerequisite softwares that you need to install to run this application. This application is deployed in GitHub.
+There are no prerequisite softwares that you need to install to run this application. This application is deployed in GitHub.
 
 # First Group Project Assigment 
 ### Coding Requirements: 
