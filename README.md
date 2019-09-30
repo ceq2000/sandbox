@@ -1,5 +1,4 @@
-# TravelApp
- Travel Application for Project 1 of UCONN Bootcamp
+# UCONN Bootcamp: Project 1 - Travel Application
 
  Team name - Let's Go!
 
