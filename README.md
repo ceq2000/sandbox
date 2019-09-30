@@ -6,7 +6,7 @@ Let's Go!
 ### Team Members: 
 Dave Levens, Liana Bette, Andrea Williams, Carlos Quinones
 
-### Link to Project Website:
+### Project Website:
 
 * [Link to the Let's Go! Travel App Website](https://davidlevens.github.io/Project-1/)
 
