@@ -1,4 +1,4 @@
-## Team Project 1 - Travel Application
+## UCONN FULLSTACK BOOTCAMP - Team Project 1 - Travel Application
 
 ### Project Name: 
 Let's Go!
