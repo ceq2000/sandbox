@@ -8,7 +8,7 @@ Dave Levens, Liana Bette, Andrea Williams, Carlos Quinones
 
 ### Project Website:
 
-* [Link to Let's Go! Website](https://davidlevens.github.io/Project-1/)
+* [Let's Go! Website Link](https://davidlevens.github.io/Project-1/)
 
 - - -
 
