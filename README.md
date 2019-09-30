@@ -1,6 +1,4 @@
-# Travel App
-
-UCONN Bootcamp: Project 1 - Travel Application
+## UCONN Bootcamp: Project 1 - Travel Application
 
 Team Project Name: Let's Go!
 
