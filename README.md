@@ -8,7 +8,7 @@ Dave Levens, Liana Bette, Andrea Williams, Carlos Quinones
 
 ### Project Website:
 
-* [Link to the Let's Go! Travel App Website](https://davidlevens.github.io/Project-1/)
+* [Link to Let's Go! Website](https://davidlevens.github.io/Project-1/)
 
 - - -
 
