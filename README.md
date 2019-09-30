@@ -2,22 +2,28 @@
 
 UCONN Bootcamp: Project 1 - Travel Application
 
-Team name: Let's Go!
+Team Project Name: Let's Go!
 
-Team members: Dave Levens, Liana Bette, Andrea Williams, Carlos Quinones
+Team Members: Dave Levens, Liana Bette, Andrea Williams, Carlos Quinones
 
-### Overall application’s concept: 
+### Application Concept: 
 Let's Go! helps travelers plan a trip by providing current weather and news as well as a city map with useful data including local restaurants, bars, museums, and stores. 
 
-### The motivation for its development:
+### Development Motivation:
 Destination traveling is a passion of our team and the motivation was to create a website that packages our travel interests into one website instead of searching multiple travel sites. The goal was to have a user friendly interface on one page load usefull aggregate travel information for planning a trip to a city destination anywhere in the world.
 
-### Our design process:
+### Our Design Process:
   *	Our design process consisted of meeting as a group.
   *	Discussing our strengths and weaknesses.
   *	Breaking down into two groups for front and back end design.
   *	Discussing the technologies and libraries of interest to use. 
   *	Developing a sketch of the final product.
+  
+### Our Production Process:
+  *	GitHub - Build Collaboration
+  * Slack - Project Communications
+  * Class Time - Team Synch Up & Reviews
+  * QA - Unit Testing, Peer Reviews, Bug Tracking
 
 ### The technologies used (and briefly how they work):	
   *	API - GooglePlaces and OpenWeather
